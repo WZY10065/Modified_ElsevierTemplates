@@ -48,3 +48,12 @@ This template is modified from Elsevier's official template and is provided for 
 1. 克隆本仓库
 2. 用LaTeX编辑器打开`cas-dc-template.tex`
 3. 直接编译生成PDF
+
+## 使用文档
+
+详细使用说明请参考：
+- [知乎中文教程](https://zhuanlan.zhihu.com/p/403432557)
+
+## 许可协议
+
+本模板修改自Elsevier官方模板，仅供学习使用。
